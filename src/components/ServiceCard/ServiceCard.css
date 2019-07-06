@@ -1,0 +1,22 @@
+.SCcover {
+    min-height: 32.5vh;
+    padding-left: 1vw;
+    padding-right: 2vw;
+    margin-bottom: calc(20px + 5vh)
+}
+
+.SCimgCover{
+    padding-bottom: 40px;
+}
+.SChead{
+    font-size:calc(25px + 0.8vw);
+    font-weight: bold;
+    font-family: Helvetica;
+    color: #EDEDED;
+}
+.SCinfo{
+    font-size:calc(10px + 0.8vw);
+    /* font-weight: bold; */
+    font-family: Helvetica;
+    color: #EDEDED;
+}

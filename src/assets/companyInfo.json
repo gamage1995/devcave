@@ -1,0 +1,13 @@
+{
+    "HStop" : "SIMPLIFIED",
+    "HSBottom" : "solutions",
+    "ISTop" : "We are here to turn your ideas into a reality",
+    "ISBottom" : "A COMMITED TEAM, FUELLED BY PASSION, VOWED TO PUT OUR A-GAME",
+    "Services" : [
+        {
+            "ServiceName" : "Web Development",
+            "ServiceInfo" : "Tell us about all those times you thought ‘What if’ and ‘why not’. Bring us ur biggest ideas and your toughest problems. We’ll offer you a custom solution packed with the newest technologies. "
+        }
+    ]
+
+}

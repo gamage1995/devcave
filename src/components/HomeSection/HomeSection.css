@@ -1,0 +1,30 @@
+.HScover{
+    min-height: 100vh;
+    color : #F8F8F8;
+}
+.HStextCover{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+}
+
+.HStop{
+    font-size:12vw;
+    font-weight: bold;
+    font-family: Helvetica;
+    line-height: 80%;
+    color: #2C2C2C;
+}
+
+.HSbottom{
+    float : right;
+    font-size: 3vw;
+    line-height: 80%;
+    font-weight: bold;
+    font-family: Helvetica;
+    color: #FF5851;
+}
+.HSbottomDot{
+    color: #2C2C2C;
+}

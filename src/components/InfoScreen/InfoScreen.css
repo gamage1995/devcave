@@ -1,0 +1,32 @@
+.IScover{
+    min-height: 74vh;
+    background-color : #FF5851;
+}
+.IStextCover{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 74vh;
+    padding: 30px;
+}
+
+.IStop{
+    font-size:calc(30px + 2vw);
+    font-weight: bold;
+    font-family: Helvetica;
+    /* line-height: 100%; */
+    color: #EDEDED;
+    text-align: center;
+}
+
+.ISbottom{
+    font-size:calc(10px + 1vw);
+    /* line-height: 80%; */
+    font-weight: bold;
+    font-family: Helvetica;
+    color: #EDEDED;
+    text-align: center;
+}
+.ISbottomDot{
+    color: #2C2C2C;
+}
