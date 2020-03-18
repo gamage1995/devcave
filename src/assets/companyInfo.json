@@ -12,7 +12,9 @@
     "Projects" : [
         {
             "Title" : "medifetch",
-            "Info" : "Find medicine at your fingertips with medifetch"
+            "Info" : "Find medicine at your fingertips with medifetch",
+            "logo" : "../../assets/projects/medifetch/Logomakr_6cz6KI.png",
+            "image" : "../../assets/projects/medifetch/med_1.png"
         }
     ]
 }
