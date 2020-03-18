@@ -1,0 +1,66 @@
+.CUcover{
+    /* min-height: 100vh; */
+    background-color : rgb(255, 255, 255);
+    /* padding-left: 5vw;
+    padding-right: 5vw; */
+    padding-bottom: calc(10px + 2vh);
+}
+.CUTop {
+    padding-top: calc(10px + 2vh);
+    padding-bottom: calc(10px + 2vh);
+    min-height: 25vh;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.CUBottom {
+    /* min-height: 75vh; */
+}
+.CUheading {
+    font-size:calc(15px + 0.8vw);
+    font-weight: bold;
+    font-family: Helvetica;
+    color: #FF5851;
+}
+
+.CUheading2 {
+    color: rgb(0, 0, 0);
+}
+
+.CUheadingCover{
+    width: 100%
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #FF5851 !important;
+    border-color: #FF5851 !important;
+}
+
+.formDiv{
+    margin-bottom: 2rem;
+}
+
+.socialMediaDiv{
+    text-align: center;
+    margin-left: 5%;
+}
+
+.socialMediaRow{
+    padding: 5px;
+    display: flex;
+    width: 100%;
+    font-size:calc(8px + 0.8vw);
+    font-family: Helvetica;
+    color: rgb(0, 0, 0);
+    align-items: center;
+
+}
+
+.info{
+    margin-left: 3%;
+    vertical-align: middle
+}
+
+.socialMediaAnchor{
+    padding: 10px;
+}

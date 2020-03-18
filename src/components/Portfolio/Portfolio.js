@@ -6,6 +6,7 @@ import { Projects } from '../../assets/projects';
 
 import './Portfolio.css';
 
+import "./Portfolio.css";
 
 export default class Portfolio extends Component {
     render() {
@@ -28,20 +29,11 @@ export default class Portfolio extends Component {
                                     </Col>
                                 )
                             })}
-                            {/* <Col xs="12" sm="12" md="6" lg="6" xl="4">
-                                <PortfolioCard />
-                            </Col>
-                            <Col xs="12" sm="12" md="6" lg="6" xl="4">
-                                <PortfolioCard />
-                            </Col>
-                            <Col xs="12" sm="12" md="6" lg="6" xl="4">
-                                <PortfolioCard />
-                            </Col> */}
                         </Row>
                     </div>
                 </Col>
                 <Col xs></Col>
             </Row>
-        )
-    }
+    );
+  }
 }

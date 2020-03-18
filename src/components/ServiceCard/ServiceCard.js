@@ -4,6 +4,7 @@ import './ServiceCard.css'
 import companyInfo from '../../assets/companyInfo.json'
 
 export default class ServiceCard extends Component {
+
     render() {
         return (
             <div className = "SCcover">

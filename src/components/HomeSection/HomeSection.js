@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import { Container, Row, Col } from 'reactstrap';
 import './HomeSection.css'
 import NavBar from '../NavBar/NavBar'
 
