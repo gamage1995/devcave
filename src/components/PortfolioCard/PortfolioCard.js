@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { Container, Row, Col } from 'reactstrap';
+import { Row, Col } from 'reactstrap';
 import './PortfolioCard.css'
 import companyInfo from '../../assets/companyInfo.json'
 
