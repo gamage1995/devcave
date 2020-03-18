@@ -1,0 +1,87 @@
+.PCcover {
+    min-height: 400px;
+    height: 70vh;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    margin-bottom: calc(20px + 10vh);
+    background-color: white;
+}
+
+.PClogoCoverRow{
+    min-height: 20%;
+    background-color: aqua;
+    padding-bottom: 2vh;
+
+}
+
+.PClogoCover{
+    display:flex;
+    justify-content:center;
+    align-items:flex-end;
+}
+.PChead{
+    font-size:calc(25px + 0.8vw);
+    font-weight: bold;
+    font-family: Helvetica;
+    color: #EDEDED;
+}
+
+.PCbodyRow{
+    min-height: 50%;
+    background-color: bisque;
+}
+
+.PCbody{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    width: 100%;
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+}
+
+.PCtextCoverRow{
+    min-height: 30%;
+    background-color:white;
+    padding-left: 2vw;
+    padding-right: 2vw;
+}
+
+.PCinfo{
+    font-size:calc(5px + 0.8vw);
+    /* font-weight: bold; */
+    font-family: Helvetica;
+    color: #EDEDED;
+}
+
+.PClogo{
+    max-width: 35%;
+}
+
+.PCmainImg{
+    max-width: 87%;
+    border-radius: 10px;
+    height: auto;
+}
+
+.PCbtmtop{
+    height: 70%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.PCbtmbtm{
+    height: 30%;
+    display:flex;
+    justify-content:flex-end;
+    align-items:flex-end;
+}
+
+.PCProjectInfo {
+    font-size:calc(18px + 0.4vw);
+}
+.PCaction {
+    font-size:calc(14px + 0.4vw);
+    font-weight: bold;
+}

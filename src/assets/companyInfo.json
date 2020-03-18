@@ -8,6 +8,11 @@
             "ServiceName" : "Web Development",
             "ServiceInfo" : "Tell us about all those times you thought ‘What if’ and ‘why not’. Bring us ur biggest ideas and your toughest problems. We’ll offer you a custom solution packed with the newest technologies. "
         }
+    ],
+    "Projects" : [
+        {
+            "Title" : "medifetch",
+            "Info" : "Find medicine at your fingertips with medifetch"
+        }
     ]
-
 }

@@ -1,0 +1,25 @@
+.POcover{
+    /* min-height: 100vh; */
+    background-color : #F8F8F8;
+    /* padding-left: 5vw;
+    padding-right: 5vw; */
+    padding-bottom: calc(10px + 2vh);
+}
+.POTop {
+    background-color : #F8F8F8;
+    padding-top: calc(10px + 2vh);
+    padding-bottom: calc(10px + 2vh);
+    min-height: 25vh;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.POBottom {
+    /* min-height: 75vh; */
+}
+.POheading {
+    font-size:calc(15px + 0.8vw);
+    font-weight: bold;
+    font-family: Helvetica;
+    color: #1C1B20;
+}
