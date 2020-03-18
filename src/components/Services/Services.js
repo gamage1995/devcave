@@ -7,7 +7,7 @@ import companyInfo from '../../assets/companyInfo.json'
 export default class Services extends Component {
     render() {
         return (
-            <Row className = "SEcover">
+            <Row className = "SEcover noMarginR">
                 <Col xs></Col>
                 <Col xs="10">
                     <div>

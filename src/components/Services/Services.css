@@ -22,3 +22,7 @@
     font-family: Helvetica;
     color: #EDEDED;
 }
+
+.noMarginR {
+    margin-right: 0px !important;
+}
