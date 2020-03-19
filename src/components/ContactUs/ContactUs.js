@@ -4,6 +4,35 @@ import { Row, Col } from "reactstrap";
 import "./ContactUs.css";
 
 export default class ContactUs extends Component {
+
+  constructor(props) {
+    super(props);
+    this.state = {
+      message: "",
+      email: "",
+      name: "",
+    };
+  }
+
+  handleClick = () => {
+    var body = this.state.message;
+    var subject = 'Message from : '+ this.state.name+' ('+this.state.email+')';
+    window.open('mailto:devace.io@gmail.com?subject='+subject+'&body='+body,  "_blank");
+
+  }
+
+  handleMessageChange = (e) => {
+    this.setState({message: e.target.value});
+  }
+
+  handleNameChange = (e) => {
+    this.setState({name: e.target.value});
+  }
+
+  handleEmailChange = (e) => {
+    this.setState({email: e.target.value});
+  }
+
   render() {
     return (
       <Row className="CUcover">
@@ -26,6 +55,7 @@ export default class ContactUs extends Component {
                           type="text"
                           class="form-control"
                           placeholder="Name"
+                          onChange={this.handleNameChange}
                         />
                       </div>
                       <div class="form-group col-md-6">
@@ -33,6 +63,7 @@ export default class ContactUs extends Component {
                           type="email"
                           class="form-control"
                           placeholder="Email"
+                          onChange={this.handleEmailChange}
                         />
                       </div>
                     </div>
@@ -41,9 +72,10 @@ export default class ContactUs extends Component {
                         class="form-control"
                         id="inputAddress"
                         placeholder="Message"
+                        onChange={this.handleMessageChange}
                       />
                     </div>
-                    <button type="submit" class="btn btn-primary">
+                    <button onClick={this.handleClick} type="submit" class="btn btn-primary">
                       Sign in
                     </button>
                   </form>
