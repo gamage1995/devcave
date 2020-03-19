@@ -81,7 +81,7 @@ export default class ContactUs extends Component {
                         alt="facebook"
                       ></img>
                     </a>
-                    <a className="socialMediaAnchor" href="#">
+                    <a className="socialMediaAnchor" href="https://www.linkedin.com/company/devcave">
                       <img
                         src={require("../../assets/linkedin.png")}
                         alt="linkedin"
