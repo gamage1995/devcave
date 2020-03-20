@@ -28,5 +28,51 @@
             "logo" : "../../assets/projects/medifetch/Logomakr_6cz6KI.png",
             "image" : "../../assets/projects/medifetch/med_1.png"
         }
+    ],
+    "Team" : [
+        {
+            "Name" : "Chameera Dulanga",
+            "Title" : "Founder",
+            "Description" : "I love to introduce myself as a Full Stack Developer and Database Designer.",
+            "Image" : "../assets/Team/Chameera.jpg",
+            "LinkedIn" : "https://www.linkedin.com/in/chameeradulanga"
+        },
+        {
+            "Name" : "Charuka Herath",
+            "Title" : "Founder",
+            "Description" : "I love to introduce myself as a Full Stack Developer and Database Designer.",
+            "Image" : "../assets/Team/Chameera.jpg",
+            "LinkedIn" : "https://www.linkedin.com/in/chameeradulanga"
+        },
+        {
+            "Name" : "Donishka Tharindu ",
+            "Title" : "Founder",
+            "Description" : "I love to introduce myself as a Full Stack Developer and Database Designer.",
+            "Image" : "../assets/Team/Chameera.jpg",
+            "LinkedIn" : "https://www.linkedin.com/in/chameeradulanga"
+        },
+        {
+            "Name" : "Nirmal Aththanayake",
+            "Title" : "Founder",
+            "Description" : "I love to introduce myself as a Full Stack Developer and Database Designer.",
+            "Image" : "../assets/Team/Chameera.jpg",
+            "LinkedIn" : "https://www.linkedin.com/in/chameeradulanga"
+        },
+        {
+            "Name" : "Charith Prasanna",
+            "Title" : "Founder",
+            "Description" : "I love to introduce myself as a Full Stack Developer and Database Designer.",
+            "Image" : "../assets/Team/Chameera.jpg",
+            "LinkedIn" : "https://www.linkedin.com/in/chameeradulanga"
+        },
+        {
+            "Name" : "Janith Gamage",
+            "Title" : "Founder",
+            "Description" : "I love to introduce myself as a Full Stack Developer and Database Designer.",
+            "Image" : "../assets/Team/Chameera.jpg",
+            "LinkedIn" : "https://www.linkedin.com/in/chameeradulanga"
+
+        }
+        
     ]
 }
