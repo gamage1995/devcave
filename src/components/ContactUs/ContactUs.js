@@ -20,30 +20,30 @@ export default class ContactUs extends Component {
               <Col xs="12" sm="12" md="6" lg="6" xl="6">
                 <div className="formDiv">
                   <form>
-                    <div class="form-row">
-                      <div class="form-group col-md-6">
+                    <div className="form-row">
+                      <div className="form-group col-md-6">
                         <input
                           type="text"
-                          class="form-control"
+                          className="form-control"
                           placeholder="Name"
                         />
                       </div>
-                      <div class="form-group col-md-6">
+                      <div className="form-group col-md-6">
                         <input
                           type="email"
-                          class="form-control"
+                          className="form-control"
                           placeholder="Email"
                         />
                       </div>
                     </div>
-                    <div class="form-group">
+                    <div className="form-group">
                       <textarea
-                        class="form-control"
+                        className="form-control"
                         id="inputAddress"
                         placeholder="Message"
                       />
                     </div>
-                    <button type="submit" class="btn btn-primary">
+                    <button type="submit" className="btn btn-primary">
                       Sign in
                     </button>
                   </form>
