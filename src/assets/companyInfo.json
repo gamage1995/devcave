@@ -23,7 +23,7 @@
     ],
     "Projects" : [
         {
-            "Title" : "medifetch",
+            "Title" : "Medifetch",
             "Info" : "Find medicine at your fingertips with medifetch",
             "logo" : "../../assets/projects/medifetch/Logomakr_6cz6KI.png",
             "image" : "../../assets/projects/medifetch/med_1.png"
@@ -33,42 +33,42 @@
         {
             "Name" : "Chameera Dulanga",
             "Title" : "Founder",
-            "Description" : "I love to introduce myself as a Full Stack Developer and Database Designer.",
+            "Description" : "I'm working as a Full Stack Developer and Database Designer at DevCave.",
             "Image" : "../assets/Team/Chameera.jpg",
             "LinkedIn" : "https://www.linkedin.com/in/chameeradulanga"
         },
         {
             "Name" : "Charuka Herath",
             "Title" : "Founder",
-            "Description" : "I love to introduce myself as a Full Stack Developer and Database Designer.",
+            "Description" : "I'm working as a Full Stack Developer at DevCave.",
             "Image" : "../assets/Team/Chameera.jpg",
             "LinkedIn" : "https://www.linkedin.com/in/chameeradulanga"
         },
         {
             "Name" : "Donishka Tharindu ",
             "Title" : "Founder",
-            "Description" : "I love to introduce myself as a Full Stack Developer and Database Designer.",
+            "Description" : "I'm working as a Full Stack Developer and DevOps Engineer at DevCave. Also I have years of experience in Graphics Designing",
             "Image" : "../assets/Team/Chameera.jpg",
             "LinkedIn" : "https://www.linkedin.com/in/chameeradulanga"
         },
         {
             "Name" : "Nirmal Aththanayake",
             "Title" : "Founder",
-            "Description" : "I love to introduce myself as a Full Stack Developer and Database Designer.",
+            "Description" : "I'm working as a Full Stack Developer at DevCave and I have years of experience with Amazon Web Services.",
             "Image" : "../assets/Team/Chameera.jpg",
             "LinkedIn" : "https://www.linkedin.com/in/chameeradulanga"
         },
         {
             "Name" : "Charith Prasanna",
-            "Title" : "Founder",
-            "Description" : "I love to introduce myself as a Full Stack Developer and Database Designer.",
+            "Title" : "",
+            "Description" : "I'm working as a Full Stack Mobile Developer at DevCave.",
             "Image" : "../assets/Team/Chameera.jpg",
             "LinkedIn" : "https://www.linkedin.com/in/chameeradulanga"
         },
         {
             "Name" : "Janith Gamage",
-            "Title" : "Founder",
-            "Description" : "I love to introduce myself as a Full Stack Developer and Database Designer.",
+            "Title" : "",
+            "Description" : "I'm working as a Full Stack Developer and UI/UX Engineer at DevCave..",
             "Image" : "../assets/Team/Chameera.jpg",
             "LinkedIn" : "https://www.linkedin.com/in/chameeradulanga"
 

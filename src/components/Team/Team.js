@@ -4,12 +4,12 @@ import "./Team.css";
 import companyInfo from "../../assets/companyInfo.json";
 export default class Team extends Component {
   state = [
-    { data: companyInfo.Team[0], image: require('../../assets/Team/Charuka.jpg')},
-    { data: companyInfo.Team[1], image: require('../../assets/Team/Charuka.jpg')},
-    { data: companyInfo.Team[2], image: require('../../assets/Team/Charuka.jpg')},
-    { data: companyInfo.Team[3], image: require('../../assets/Team/Charuka.jpg')},
-    { data: companyInfo.Team[4], image: require('../../assets/Team/Charuka.jpg')},
-    { data: companyInfo.Team[5], image: require('../../assets/Team/Charuka.jpg')},
+    { data: companyInfo.Team[0], image: require('../../assets/Team/Chameera.png')},
+    { data: companyInfo.Team[1], image: require('../../assets/Team/Charuka.png')},
+    { data: companyInfo.Team[2], image: require('../../assets/Team/Donishka.png')},
+    { data: companyInfo.Team[3], image: require('../../assets/Team/Nirmal.png')},
+    { data: companyInfo.Team[4], image: require('../../assets/Team/Charith.png')},
+    { data: companyInfo.Team[5], image: require('../../assets/Team/Janith.png')},
 
   ];
 
@@ -27,7 +27,7 @@ export default class Team extends Component {
           <div class="team-hover">
             <div class="desk">
               <h4>Hi There !</h4>
-              <p>{s.data.Description}</p>
+              <p class="description">{s.data.Description}</p>
             </div>
             <div class="s-link">
               <a href="#"></a>
@@ -45,7 +45,7 @@ export default class Team extends Component {
         </div>
         <div class="team-title">
           <h5>{s.data.Name}</h5>
-          <span>{s.data.Title}</span>
+    {/*<span>{s.data.Title}</span>*/}
         </div>
       </Col>
     ));
