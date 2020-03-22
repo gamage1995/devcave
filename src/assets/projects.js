@@ -7,7 +7,7 @@ export const Projects = [
     },
     {
         Title: "VTour",
-        Info: "VTour is an application which you can book and hire guids",
+        Info: "VTour is an application which you can book and hire guide",
         Logo: 'Logomakr_6cz6KI',
         Image: 'med_1'
     }
