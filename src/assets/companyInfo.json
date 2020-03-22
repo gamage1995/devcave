@@ -6,19 +6,19 @@
     "Services" : [
         {
             "ServiceName" : "Web Development",
-            "ServiceInfo" : "Tell us about all those times you thought ‘What if’ and ‘why not’. Bring us ur biggest ideas and your toughest problems. We’ll offer you a custom solution packed with the newest technologies. "
+            "ServiceInfo" : "An effective web presence is a critical component of any company’s brand strategy. Customers form their first impressions about a brand and make the decision to interact with the brand before they step into your premises or see your product on the shelves. We specialise in developing digital strategies for companies and translating those into web solutions"
         },
         {
             "ServiceName" : "Mobile Development",
-            "ServiceInfo" : "Tell us about all those times you thought ‘What if’ and ‘why not’. Bring us ur biggest ideas and your toughest problems. We’ll offer you a custom solution packed with the newest technologies. "
+            "ServiceInfo" : "We work closely with our clients to develop their concepts and ideas into fruitful and value-driven mobile applications. On-going R&D and user-centric design and development approaches allow us to create apps that are easy to use and have exceptional personal value for users."
         },
         {
-            "ServiceName" : "SEO",
-            "ServiceInfo" : "Tell us about all those times you thought ‘What if’ and ‘why not’. Bring us ur biggest ideas and your toughest problems. We’ll offer you a custom solution packed with the newest technologies. "
+            "ServiceName" : "ERP systems",
+            "ServiceInfo" : "We Gartner defines ERP as A technology strategy that integrates a set of business functions, such as finance, HR and purchasing, with operational aspects, such as manufacturing or distribution, through tight linkages from operational business transactions to financial records. We design and develop more convenient and flexible ERP solutions for our trusted cutomers with care"
         },
         {
-            "ServiceName" : "Graphic Designing",
-            "ServiceInfo" : "Tell us about all those times you thought ‘What if’ and ‘why not’. Bring us ur biggest ideas and your toughest problems. We’ll offer you a custom solution packed with the newest technologies. "
+            "ServiceName" : "E-commerce and Shopping carts",
+            "ServiceInfo" : "e-Commerce offers a cost effective avenue to grow your business and reach a large active audience online. At We Are Designers, we look at e-Commerce as more than an online store, but as a strategic expansion of your business. We bring the strategic, operational and tactical expertise necessary to not only launch an e-Commerce store but to also make it successful."
         }
     ],
     "Projects" : [

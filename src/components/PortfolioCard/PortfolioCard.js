@@ -28,9 +28,9 @@ export default class PortfolioCard extends Component {
                         <Row className="PCbtmtop">
                             <p className = "PCProjectInfo">{this.props.Info}</p>
                         </Row>
-                        <Row className="PCbtmbtm">
+                        {/* <Row className="PCbtmbtm">
                             <p className = "PCaction">Case Study -></p>
-                        </Row>
+                        </Row> */}
                     </Col>
                 </Row>
             </div>

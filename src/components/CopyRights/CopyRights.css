@@ -1,0 +1,9 @@
+.SFooter {
+    width: 100%;
+    color: darkgray;
+    font-family: inherit;
+    justify-content: center;
+    font-size: small;
+    border-top: 1px solid #ddd;
+    padding-top: 2%;
+}

@@ -43,9 +43,11 @@
 .socialMediaDiv{
     text-align: center;
     margin-left: 5%;
+    justify-content: center;
 }
 
 .socialMediaRow{
+    justify-content: center;
     padding: 5px;
     display: flex;
     width: 100%;
@@ -53,7 +55,6 @@
     font-family: Helvetica;
     color: rgb(0, 0, 0);
     align-items: center;
-
 }
 
 .info{
@@ -63,4 +64,11 @@
 
 .socialMediaAnchor{
     padding: 10px;
+}
+.socialMediaAnchor:hover{
+    color: blue;
+}
+.linkedin:hover{
+    background-color: blue;
+    color: blue;
 }

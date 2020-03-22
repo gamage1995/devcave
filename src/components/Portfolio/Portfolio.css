@@ -1,8 +1,8 @@
 .POcover{
     /* min-height: 100vh; */
     background-color : #F8F8F8;
-    /* padding-left: 5vw;
-    padding-right: 5vw; */
+    padding-left: 5vw;
+    padding-right: 5vw;
     padding-bottom: calc(10px + 2vh);
 }
 .POTop {
