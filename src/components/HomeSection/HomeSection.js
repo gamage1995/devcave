@@ -1,24 +1,36 @@
-import React, { Component } from 'react'
-import './HomeSection.css'
-import NavBar from '../NavBar/NavBar'
+import React, { Component } from "react";
+import "./HomeSection.css";
+import NavBar from "../NavBar/NavBar";
+import TextLoop from "react-text-loop";
 
 export default class HomeSection extends Component {
-    render() {
-        return (
-            // <Container>
-            //     <Row>
-            //     <Col>.col</Col>
-            //     </Row>
-            // </Container>
-            <div className = "HScover">
-                    <NavBar/>
-                    <div className = "HStextCover">
-                        <div>
-                            <p className = "HStop">SIMPLIFIED</p>
-                            <p className = "HSbottom">solutions<span className = "HSbottomDot">.</span></p>
-                        </div> 
-                    </div>
+  render() {
+    return (
+      <div className="HScover">
+        <NavBar />
+        <div className="HStextCover">
+          <TextLoop springConfig={{ stiffness: 300, damping: 30 }} interval={5000}>
+            <div>
+              <p className="HStop">SIMPLIFIED</p>
+              <p className="HSbottom">
+                solutions<span className="HSbottomDot">.</span>
+              </p>
             </div>
-        )
-    }
+            <div>
+              <p className="HStop">CUTTING EDGE</p>
+              <p className="HSbottom">
+                technologies<span className="HSbottomDot">.</span>
+              </p>
+            </div>
+            <div>
+              <p className="HStop">FUTURISTIC</p>
+              <p className="HSbottom">
+                products<span className="HSbottomDot">.</span>
+              </p>
+            </div>
+          </TextLoop>
+        </div>
+      </div>
+    );
+  }
 }
