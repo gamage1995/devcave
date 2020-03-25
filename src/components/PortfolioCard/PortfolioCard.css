@@ -21,6 +21,7 @@
     min-height: 20%;
     background-color: white;
     padding-bottom: 2vh;
+    justify-content: center;
 
 }
 
@@ -65,7 +66,7 @@
 }
 
 .PClogo{
-    max-width: 35%;
+    height: 100px;
 }
 
 .PCmainImg{

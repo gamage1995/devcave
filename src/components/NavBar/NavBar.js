@@ -33,7 +33,7 @@ export default class NavBar extends React.Component {
           <NavbarBrand href="/">
               <img alt = "logo" className = "navLogo"  src = {logo}></img>
           </NavbarBrand>
-          <NavbarToggler onClick={this.toggle} />
+          {/*<NavbarToggler onClick={this.toggle} />
           <Collapse isOpen={this.state.isOpen} navbar>
             <Nav className="ml-auto" navbar>
               <NavItem>
@@ -48,26 +48,8 @@ export default class NavBar extends React.Component {
               <NavItem>
                 <NavLink className="navLink_" href="/components/">CONTACT</NavLink>
               </NavItem>
-             
-              {/* <UncontrolledDropdown nav inNavbar>
-                <DropdownToggle nav caret>
-                  Options
-                </DropdownToggle>
-                <DropdownMenu right>
-                  <DropdownItem>
-                    Option 1
-                  </DropdownItem>
-                  <DropdownItem>
-                    Option 2
-                  </DropdownItem>
-                  <DropdownItem divider />
-                  <DropdownItem>
-                    Reset
-                  </DropdownItem>
-                </DropdownMenu>
-              </UncontrolledDropdown> */}
             </Nav>
-          </Collapse>
+    </Collapse>*/}
         </Navbar>
       </div>
     );

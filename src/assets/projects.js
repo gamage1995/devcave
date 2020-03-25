@@ -14,7 +14,7 @@ export const Projects = [
     {
         Title: "maldives Partnership fourm app",
         Info: "Android and Ios app developed for maldives partnership forum",
-        Logo: 'splash',
+        Logo: 'MPF2019',
         Image: 'mpf',
     },
     {
