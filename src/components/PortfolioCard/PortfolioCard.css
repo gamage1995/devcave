@@ -1,8 +1,6 @@
 .PCcover {
     min-height: 400px;
     height: 70vh;
-    margin-left: 1vw;
-    margin-right: 1vw;
     margin-bottom: calc(20px + 10vh);
     background-color: white;
     -webkit-box-shadow: 0px 0px 20px -1px rgba(199,195,199,1);
@@ -64,9 +62,8 @@
     font-family: Helvetica;
     color: #EDEDED;
 }
-
 .PClogo{
-    height: 100px;
+    max-width: 100px;
 }
 
 .PCmainImg{
@@ -113,4 +110,11 @@
     text-transform: lowercase;
     font-size:calc(10px + 0.4vw);
     font-weight: bold;
+}
+
+.Phead{
+    font-size:calc(15px + 0.8vw);
+    font-weight: bold;
+    font-family: Helvetica;
+    color:#1C1B20;
 }

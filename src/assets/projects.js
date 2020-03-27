@@ -1,6 +1,6 @@
 export const Projects = [
     {
-        Title: "medifetch",
+        Title: "Medifetch",
         Info: "Find medicine at your fingertips with medifetch",
         Logo: 'Logomakr_6cz6KI',
         Image: 'med_1',
@@ -12,7 +12,7 @@ export const Projects = [
         Image: 'vtour'
     },
     {
-        Title: "maldives Partnership fourm app",
+        Title: "Maldives Partnership Fourm App",
         Info: "Android and Ios app developed for maldives partnership forum",
         Logo: 'MPF2019',
         Image: 'mpf',

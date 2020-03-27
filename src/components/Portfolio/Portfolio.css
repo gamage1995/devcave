@@ -8,7 +8,7 @@
 .POTop {
     background-color : #F8F8F8;
     padding-top: calc(10px + 2vh);
-    padding-bottom: calc(10px + 2vh);
+    padding-bottom: calc(5px + 2vh);
     min-height: 25vh;
     display: flex;
     justify-content: flex-start;
