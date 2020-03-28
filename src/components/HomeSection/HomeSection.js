@@ -9,7 +9,7 @@ export default class HomeSection extends Component {
       <div className="HScover">
         <NavBar />
         <div className="HStextCover">
-          <TextLoop springConfig={{ stiffness: 300, damping: 30 }} interval={5000}>
+          <TextLoop interval={5000}>
             <div>
               <p className="HStop">SIMPLIFIED</p>
               <p className="HSbottom">
