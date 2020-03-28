@@ -9,7 +9,7 @@ export default class HomeSection extends Component {
       <div className="HScover">
         <NavBar />
         <div className="HStextCover">
-          <TextLoop interval={5000}>
+          <TextLoop adjustingSpeed={250} interval={5000}>
             <div>
               <p className="HStop">SIMPLIFIED</p>
               <p className="HSbottom">
