@@ -6,6 +6,7 @@ import Portfolio from './components/Portfolio/Portfolio'
 import Contact from './components/ContactUs/ContactUs'
 import Team from './components/Team/Team'
 import CopyRights from './components/CopyRights/CopyRights'
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 import './App.css';
 
